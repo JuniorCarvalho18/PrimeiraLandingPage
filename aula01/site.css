@@ -74,6 +74,7 @@ body {
     border: 1px solid gray;
     border-color: gray;
     border-radius: 5px;
+    font-weight: bold;
   }
   .Ra{
     margin-bottom: 50px;
