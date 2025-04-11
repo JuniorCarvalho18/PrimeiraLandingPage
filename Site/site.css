@@ -31,13 +31,13 @@ body {
   text-align: center;
   font-size: 35px;
   }
-  section{
+  aside{
     margin:auto;
     float: left;
     text-align: left;
     
   }
-  aside{
+  section{
     float: right;
     text-align: left;
     margin-right: 250px;
@@ -61,7 +61,6 @@ body {
   .Login{
     background-color:whitesmoke;
     padding: 20px;
-    padding-bottom: 20px;
     border: 2px solid lightgrey;
     border-color: gray;
     border-radius: 10px;
